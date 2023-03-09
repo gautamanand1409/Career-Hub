@@ -198,13 +198,13 @@
           <div class="course bg-white h-100 align-self-stretch">
               <figure class="m-0">
                 <!-- add the Web Development image -->
-                <img src="images/img2.jpg" alt="Image" class="img-fluid">
+                <img src="images/website-development.jpg" alt="Image" class="img-fluid" >
               </figure>
               <div class="course-inner-text py-4 px-4">
                 <span class="course-price">FREE</span>
                 <div class="meta"><span class="icon-clock-o"></span>20 Lessons / 4 week</div>
                 <h3><a href="#">Introduction to web development</a></h3>
-                <p>Discover the world of cloud computing. </p>
+                <p>Discover the world of Websites. </p>
               </div>
               <div class="d-flex border-top stats">
                 <div class="py-3 px-4"><span class="icon-users"></span> 2,100 students</div>
@@ -215,7 +215,7 @@
             <div class="course bg-white h-100 align-self-stretch">
               <figure class="m-0">
                 <!-- add the cloud computing image -->
-                <img src="images/img2.jpg" alt="Image" class="img-fluid">
+                <img src="images/cloud_computing.jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="course-inner-text py-4 px-4">
                 <span class="course-price">FREE</span>
@@ -232,7 +232,7 @@
             <div class="course bg-white h-100 align-self-stretch">
               <figure class="m-0">
                 <!-- add the database image -->
-                <img src="images/img4.jpg" alt="Image" class="img-fluid">
+                <img src="images/Database.jpg" alt="Image" class="img-fluid">
               </figure>
               
               <div class="course-inner-text py-4 px-4">
@@ -400,33 +400,33 @@
 
           <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="100">
             <div class="teacher text-center">
-              <img src="images/person_1.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
+              <img src="images/annomymous.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
               <div class="py-2">
-                <h3 class="text-black">Aouini Oussama</h3>
-                <p class="position">WEB Teacher</p>
-                <p>Made over 100 websites with years of experience, taught over 500 students.</p>
+                <h3 class="text-black">XYZ</h3>
+                <p class="position">WEB DEVELOPER</p>
+                <p>Over 10 years of experience Worked on so many projects .</p>
               </div>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">
             <div class="teacher text-center">
-              <img src="images/person_2.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
+              <img src="images/annomymous.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
               <div class="py-2">
-                <h3 class="text-black">Abidi Nidhal</h3>
-                <p class="position">AI Teacher</p>
-                <p>Over 20 years of experience Worked at NASA and done so many projects .</p>
+                <h3 class="text-black">ABC</h3>
+                <p class="position">PYTHON DEVELOPER</p>
+                <p>Over 20 years of experience Worked on so many projects .</p>
               </div>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="300">
             <div class="teacher text-center">
-              <img src="images/person_3.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
+              <img src="images/annomymous.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
               <div class="py-2">
-                <h3 class="text-black">Zemmali Mohamed</h3>
-                <p class="position">IOT Teacher</p>
-                <p>Leading expert in the domain of IOT, taught many students over the years.</p>
+                <h3 class="text-black">XYZ</h3>
+                <p class="position">JAVA DEVELOPER</p>
+                <p>Over 20 years of experience Worked on so many projects .</p>
               </div>
             </div>
           </div>
@@ -438,7 +438,7 @@
       <div class="container">
         <div class="row justify-content-center align-items-center">
           <div class="col-md-8 text-center testimony">
-            <img src="images/person_4.jpg" alt="Image" class="img-fluid w-25 mb-4 rounded-circle">
+            <img src="images/annomymous.jpg" alt="Image" class="img-fluid w-25 mb-4 rounded-circle">
             <h3 class="mb-4">Anonymous</h3>
             <blockquote>
               <p>&ldquo; I was struggling with my studies but it all changed when I learned about Career-Hub, I'm now a senior software engineer making a 6 figure salary per year.This website is a real game changer. &rdquo;</p>
