@@ -425,7 +425,7 @@
               <img src="images/annomymous.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
               <div class="py-2">
                 <h3 class="text-black">XYZ</h3>
-                <p class="position">JAVA DEVELOPER</p>
+                <p class="position">Java DEVELOPER</p>
                 <p>Over 20 years of experience Worked on so many projects .</p>
               </div>
             </div>
